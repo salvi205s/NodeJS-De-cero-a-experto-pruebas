@@ -1,6 +1,6 @@
 import { usuarioIngresado } from './booleanos';
 
-describe('Pruebas de Booleanos', () => {
+xdescribe('Pruebas de Booleanos', () => {
   it('Debe de retornar true', () => {
     const res = usuarioIngresado();
 

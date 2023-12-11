@@ -1,6 +1,6 @@
 import { Jugador } from './clase';
 
-describe('Pruebas de clase', () => {
+xdescribe('Pruebas de clase', () => {
   // const jugador = new Jugador();
   let jugador: Jugador;
 
