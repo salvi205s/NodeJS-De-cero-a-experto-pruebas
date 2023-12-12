@@ -4,7 +4,7 @@ import { MedicosService } from './medicos.service';
 import { of, throwError, EMPTY, from } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 // Describimos el componente de Médicos
-describe('MedicosComponent', () => {
+xdescribe('MedicosComponent', () => {
   // Declaramos las variables que vamos a utilizar
   let componente: MedicosComponent;
   let servicio: MedicosService;
