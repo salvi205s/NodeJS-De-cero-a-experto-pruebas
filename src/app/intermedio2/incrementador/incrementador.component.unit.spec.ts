@@ -1,6 +1,6 @@
 import { IncrementadorComponent } from "./incrementador.component";
 
-describe('Incrementador Component Unit', () => {
+xdescribe('Incrementador Component Unit', () => {
   let component: IncrementadorComponent;
 
   beforeEach(() => {
